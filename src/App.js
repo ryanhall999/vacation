@@ -79,5 +79,3 @@ export default function App() {
 		</div>
 	);
 }
-
-//	fetchVacations(id).then(data => setVacations(data));
